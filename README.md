@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SS-Sanjay-Kumar
-- 👀 I’m interested in Python and web development 
+- 👀 I’m interested in Python and Web development 
 - 🌱 I’m currently learning Computer Science and Engineering
 - 💞️ .
 - 📫 .
